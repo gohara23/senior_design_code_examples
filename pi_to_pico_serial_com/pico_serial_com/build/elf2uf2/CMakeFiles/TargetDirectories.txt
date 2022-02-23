@@ -1,0 +1,5 @@
+/home/gohara/senior_design/senior_design_code_examples/pi_to_pico_serial_com/pico_serial_com/build/elf2uf2/CMakeFiles/rebuild_cache.dir
+/home/gohara/senior_design/senior_design_code_examples/pi_to_pico_serial_com/pico_serial_com/build/elf2uf2/CMakeFiles/edit_cache.dir
+/home/gohara/senior_design/senior_design_code_examples/pi_to_pico_serial_com/pico_serial_com/build/elf2uf2/CMakeFiles/elf2uf2.dir
+/home/gohara/senior_design/senior_design_code_examples/pi_to_pico_serial_com/pico_serial_com/build/elf2uf2/boot_uf2_headers/CMakeFiles/rebuild_cache.dir
+/home/gohara/senior_design/senior_design_code_examples/pi_to_pico_serial_com/pico_serial_com/build/elf2uf2/boot_uf2_headers/CMakeFiles/edit_cache.dir

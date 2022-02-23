@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/gohara/senior_design/senior_design_code_examples/pi_to_pico_serial_com/pico_serial_com/build/CMakeFiles/ELF2UF2Build"
+		},
+		{
+			"file" : "/home/gohara/senior_design/senior_design_code_examples/pi_to_pico_serial_com/pico_serial_com/build/CMakeFiles/ELF2UF2Build.rule"
+		},
+		{
+			"file" : "/home/gohara/senior_design/senior_design_code_examples/pi_to_pico_serial_com/pico_serial_com/build/CMakeFiles/ELF2UF2Build-complete.rule"
+		},
+		{
+			"file" : "/home/gohara/senior_design/senior_design_code_examples/pi_to_pico_serial_com/pico_serial_com/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule"
+		},
+		{
+			"file" : "/home/gohara/senior_design/senior_design_code_examples/pi_to_pico_serial_com/pico_serial_com/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule"
+		},
+		{
+			"file" : "/home/gohara/senior_design/senior_design_code_examples/pi_to_pico_serial_com/pico_serial_com/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule"
+		},
+		{
+			"file" : "/home/gohara/senior_design/senior_design_code_examples/pi_to_pico_serial_com/pico_serial_com/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule"
+		},
+		{
+			"file" : "/home/gohara/senior_design/senior_design_code_examples/pi_to_pico_serial_com/pico_serial_com/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule"
+		},
+		{
+			"file" : "/home/gohara/senior_design/senior_design_code_examples/pi_to_pico_serial_com/pico_serial_com/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule"
+		},
+		{
+			"file" : "/home/gohara/senior_design/senior_design_code_examples/pi_to_pico_serial_com/pico_serial_com/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ELF2UF2Build"
+		],
+		"name" : "ELF2UF2Build"
+	}
+}
